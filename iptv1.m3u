@@ -1,0 +1,449 @@
+#EXTM3U French
+#EXTINF:0, 123
+http://mystreams.fr.mu/80E803/enco35-cp/hls/m3u8/canphd38917199.m3u8
+#EXTINF:0, 13 eme Rue
+http://cdn.step-tv.com/dzsat/252525/3584.ch
+#EXTINF:0, 6TER
+http://stream4.latvdefrance.com/demo/6ter.m3u8
+#EXTINF:0, a la carte 1
+http://208.110.84.86:8000/test2016/test2016/212
+#EXTINF:0, AB1
+http://live-trl102.abweb.com/liveabtrl102/ngrp:ab1.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:0, ACTION
+http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:0, Africa, FR, CA, USA
+http://p4.giffy.be:8080/get.php?username=nat&password=nat&type=m3u
+#EXTINF:0, Africa, FR, CA, USA
+http://p4.giffy.be:8080/get.php?username=demo&password=demo&type=m3u
+#EXTINF:0, aide
+http://iptv-supplier.com:8000/live/henri/henri/191.m3u8
+#EXTINF:0, AR, FR, DE, IT, ES
+http://king365tv.mine.nu:2103/get.php?username=try7600&password=mailtest&type=m3u
+#EXTINF:0, AR, FR, IT, DE, ES, NL, UK
+http://5.196.85.35/get.php?username=MIF1471343128&password=57b2ea184aa66&type=m3u
+#EXTINF:0, BFM PARIS
+http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/master.m3u8
+#EXTINF:0, BFM TV
+http://wm.live.tv-radio.com/bouygues/all/channel10.wmv
+#EXTINF:0, BFM TV
+mms://91.197.165.4/bouygues/all/channel10.wmv
+#EXTINF:0, BFM TV [720p]
+http://stream-03.dc3.dailymotion.com/03/dm/1/xgz4t1/live.isml/events(live-1498577651)/live-audio=128000-video=2100000.m3u8
+#EXTINF:0, BFMTV HD
+http://stream-12.dc3.dailymotion.com/45/dm/1/xgz4t1/live.isml/events(live-1497398924)/live-audio=128000-video=2100000.m3u8
+#EXTINF:0, Boomerang FR
+http://185.2.83.186/boomerang/tracks-v1a1/index.m3u8
+#EXTINF:0, Calais TV
+mms://91.121.2.60/calaistv
+#EXTINF:0, Canal +
+http://cdn.sstream.pw/live/ch22_aaxdm1l/chunklist.m3u8
+#EXTINF:0, CANAL+
+rtmp://94.254.0.191:1935/live/stream4?e=1485117076&st=dG6PIAcG6dswdZuijZE4dw
+#EXTINF:0, CinePolar
+http://130.0.24.20:8888/udp/225.255.255.21:30000
+#EXTINF:0, Clap TV
+mms://rr93.diffusepro.com/rr93
+#EXTINF:0, cmore
+http://cmorehlsedc-i.akamaihd.net/hls/live/208154/cmfotboll/cmfotboll.m3u8
+#EXTINF:0, cmore
+http://cmorehlsedc-i.akamaihd.net/hls/live/208154/cmfotboll/cmfotboll.m3u8
+#EXTINF:0, D 17 (DIRECT STAR)
+mms://91.197.165.4/bouygues/all/channel9.wmv
+#EXTINF:0, D17
+http://chkg.tdf-cdn.com/6319/02.m3u8
+#EXTINF:0, D8
+http://chkg.tdf-cdn.com/6318/02.m3u8
+#EXTINF:0, Escales
+http://194.116.252.129.4022://8b.kz/y9Wy?/udp/239.239.2.77:1234
+#EXTINF:0, Euronews
+rtmp://fr-par-3.stream-relay.hexaglobe.net/rtpeuronewslive/fr_video750_rtp.sdp
+#EXTINF:0, Euronews
+rtmp://fr-par-3.stream-relay.hexaglobe.net/rtpeuronewslive/fr_video750_rtp.sdp
+#EXTINF:0, FB TV [480p]
+http://stream-07.dc3.dailymotion.com/47/dm/1/x21oo10/live.isml/events(live-1498759036)/live-audio=128000-video=1260000.m3u8
+#EXTINF:0, FR
+http://81.241.107.213:9981/playlist
+#EXTINF:0, fr
+http://62.210.245.19:8000/get.php?username=F094283p192427&password=8x847uLHJ213Q9&type=m3u
+#EXTINF:0, Fr
+http://92.89.72.23:9981/playlist
+#EXTINF:0, Fr
+http://90.14.188.77:9981/playlist
+#EXTINF:0, FR
+http://80.200.206.119:9981/playlist
+#EXTINF:0, FR
+http://90.23.128.25:9981/playlist
+#EXTINF:0, FR
+http://92.245.138.96:9981/playlist
+#EXTINF:0, FR Astra
+http://176.127.75.96:26000/playlist.m3u8
+#EXTINF:0, FR | 13 EME RUE
+http://p3x.eu:8080/live/salihcakir/cakirsalih/8919.ts
+#EXTINF:0, FR, AR
+http://elite-stream.dyndns.info:8000/get.php?username=vip0637&password=Gt9KjpcT&type=m3u
+#EXTINF:0, FR, AR
+http://rmd.primatv.club:8899/get.php?username=kytxlgdsjkfjj&password=AsErzB8D7L&type=m3u
+#EXTINF:0, FR, AR
+http://iptvboxy.com:8000/get.php?username=josiane01&password=josiane01&type=m3u
+#EXTINF:0, FR, AR
+http://163.172.14.105:8000/get.php?username=FR:French&password=M9XePT9Noy&type=m3u
+#EXTINF:0, FR, AR, UK, Sports
+http://66.70.179.162:8080/get.php?username=panal&password=panal&type=m3u
+#EXTINF:0, FR, AR, USA
+http://137.74.56.222:8000/get.php?username=1&password=2&type=m3u
+#EXTINF:0, FR, AR, USA
+http://93.118.32.94:8000/get.php?username=1812-www.ipmagtv.com&password=6fwvhhukv6hFgcHJ&type=m3u
+#EXTINF:0, FR, AR, USA,...
+http://euroiptv.myftp.biz:8000/get.php?username=greg&password=greg&type=m3u
+#EXTINF:0, FR, DE, AR
+http://163.172.61.93:25461/get.php?username=maxime&password=maxime&type=m3u
+#EXTINF:0, FR, DE, AR
+http://163.172.61.93:25461/get.php?username=Charly&password=Charly&type=m3u
+#EXTINF:0, FR, ES
+http://localhd.tv:8081/get.php?username=LK0717KLMMS&password=FyT11V6t0r&type=m3u
+#EXTINF:0, Fr, Es, UK,...
+http://62.4.21.70:8000/get.php?username=1111&password=1111&type=m3u
+#EXTINF:0, FR, IT, DE, UK, RO,...
+http://live.xtream.top:8000/get.php?username=miguel&password=miguel&type=m3u
+#EXTINF:0, FR, IT, PT
+http://localhd.tv:8081/get.php?username=oussama&password=oussama&type=m3u
+#EXTINF:0, FR, Latino
+http://173.212.194.126:8000/get.php?username=dshdgf67767&password=1593574628&type=m3u
+#EXTINF:0, FR, PT, IT, ....
+http://localhd.tv:8081/get.php?username=abonnement2018&password=abonnement2018&type=m3u
+#EXTINF:0, FR, UK
+http://94.16.146.190:9981/playlist
+#EXTINF:0, FR, UK, ES,...
+http://37.187.137.199:8000/get.php?username=sattv&password=4lZfgcTYqn&type=m3u
+#EXTINF:0, FR, UK,...
+http://5.199.161.135:8000/get.php?username=salmane&password=salmane&type=m3u
+#EXTINF:0, FR, USA
+http://93.118.32.94:8000/get.php?username=0401-www.ipmagtv.com&password=HcccdtFhvchhhII&type=m3u
+#EXTINF:0, Fr, world
+http://195.154.154.30:8000/get.php?username=antonella&password=antonella&type=m3u
+#EXTINF:0, FR, World
+http://iptv.magsat.tv:80/get.php?username=minialv&password=ZZWBEvlUpk&type=m3u
+#EXTINF:0, FR, World
+http://iptv.oneiptv.tv:8080/get.php?username=226424484069767&password=226424484069767&type=m3u
+#EXTINF:0, FR,...
+http://ndasat.pro:8000//get.php?username=76879463485834&password=1593574628&type=m3u
+#EXTINF:0, France
+http://90.125.165.67:8000/playlist.m3u8
+#EXTINF:0, France
+http://109.190.35.202:9981/playlist
+#EXTINF:0, France
+http://localhd.tv:8081/get.php?username=tvsat&password=youtube&type=m3u
+#EXTINF:0, France
+http://163.172.84.45:25461/get.php?username=tiryonlter&password=skypp&type=m3u
+#EXTINF:0, France
+http://62.210.139.14:8000/get.php?username=Vdh9g0AE1AA5F7u&password=1rFoFno8SexvEwD&type=m3u
+#EXTINF:0, France
+http://90.8.58.90:9981/playlist
+#EXTINF:0, France
+http://213.213.230.119:9981/playlist
+#EXTINF:0, France
+http://81.53.28.106:9981/playlist
+#EXTINF:0, France
+http://85.148.110.185:9981/playlist
+#EXTINF:0, France
+http://62.210.245.19:8000/get.php?username=2LS2XF417499s4&password=BSp84771748297&type=m3u
+#EXTINF:0, France
+http://62.210.245.19:8000/get.php?username=2LS2XF417499s4&password=BSp84771748297&type=m3u
+#EXTINF:0, France
+http://185.238.6.20:9981/playlist
+#EXTINF:0, France
+http://86.242.219.151:8000/playlist.m3u8
+#EXTINF:0, FRANCE 2
+http://wm.live.tv-radio.com/bouygues/all/channel1.wmv
+#EXTINF:0, France 2
+rtmp://$OPT:rtmp-raw=rtmp://cp108476.live.edgefcs.net/live/france2_1_800@45496 swfsize=927444 swfhash=6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb live=1
+#EXTINF:0, FRANCE 2
+mms://91.197.165.4/bouygues/all/channel1.wmv
+#EXTINF:0, France 24
+http://rm-edge-1.cdn2.streamago.tv:80/streamagoedge/1921/814/France 24.m3u8
+#EXTINF:0, France 4
+http://wm.live.tv-radio.com/bouygues/all/channel3.wmv
+#EXTINF:0, FRANCE 5
+rtmp://$OPT:rtmp-raw=rtmp://cp108476.live.edgefcs.net/live playpath=france5_1_800@45501 pageUrl=http://livetvstreaming.ucoz.com live=1
+#EXTINF:0, France 5
+rtmp://$OPT:rtmp-raw=rtmp://cp108476.live.edgefcs.net/live/france5_1_800@45501 swfsize=927444 swfhash=6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb live=1
+#EXTINF:0, FRANCE 5
+http://wm.live.tv-radio.com/bouygues/all/channel4.wmv
+#EXTINF:0, FRANCE 5
+mms://91.197.165.4/bouygues/all/channel4.wmv
+#EXTINF:0, France IPTV
+http://62.210.245.19:8000/get.php?username=testapp&password=testapp&type=m3u
+#EXTINF:0, France IPTV
+http://163.172.105.191:8888/get.php?username=neqash&password=neqash&type=m3u
+#EXTINF:0, France IPTV
+http://86.210.15.171:9981/playlist
+#EXTINF:0, France IPTV
+http://premium-ott.com:8000/get.php?username=cimino&password=123456&type=m3u
+#EXTINF:0, France IPTV
+http://pro.leaderiptv.com:8000/get.php?username=TATA&password=TATA&type=m3u
+#EXTINF:0, France IPTV
+http://151.80.105.190:8000/get.php?username=S4mRLSiV7b&password=hsj1XSplX6&type=m3u
+#EXTINF:0, France IPTV
+http://162.12.217.202:8000/playlist.m3u8
+#EXTINF:0, France IPTV
+http://vu.cdteam.org:9988/get.php?username=Abb72&password=B8I4BGYGrF&type=m3u
+#EXTINF:0, France IPTV
+http://iptvboxy.com:8000/get.php?username=yasmina&password=yasmina&type=m3u
+#EXTINF:0, France IPTV
+http://86.252.32.2:9981/playlist
+#EXTINF:0, France IPTV
+http://86.252.16.180:9981/playlist
+#EXTINF:0, France IPTV
+http://92.153.35.249:9981/playlist
+#EXTINF:0, France IPTV
+http://185.93.3.84:5019/playlist.m3u8
+#EXTINF:0, France IPTV
+http://2.12.172.218:9981/playlist
+#EXTINF:0, France IPTV, UK
+http://37.187.161.210:8080/get.php?username=maison&password=maison&type=m3u
+#EXTINF:0, France IPTV, World
+http://46.105.115.25:8000/get.php?username=09458458280264&password=1593574628&type=m3u
+#EXTINF:0, France, Belgium
+http://163.172.222.53:8888/get.php?username=hassan&password=hassan&type=m3u
+#EXTINF:0, France, IT, De
+http://149.202.205.91:8081/get.php?username=jalel&password=jalel&type=m3u
+#EXTINF:0, France, IT, RU, UK
+http://46.105.115.25:8000/get.php?username=23536485763574&password=1593574628&type=m3u
+#EXTINF:0, France, Italy
+http://46.249.60.210:9981/playlist.m3u8
+#EXTINF:0, France, mix
+http://37.187.161.210:8080/get.php?username=reda&password=reda&type=m3u
+#EXTINF:0, France, UK, Arab
+http://ip.cs4ip.com:8000/get.php?username=alpha123&password=alpha123&type=m3u
+#EXTINF:0, France, World
+http://46.105.115.25:8000/get.php?username=82633586735749&password=1593574628&type=m3u
+#EXTINF:0, France, World
+http://46.105.115.25:8000/get.php?username=49246377842846&password=1593574628&type=m3u
+#EXTINF:0, France, World
+http://94.23.39.14:8000/get.php?username=hamza&password=hamza&type=m3u
+#EXTINF:0, France, World
+http://xtream.globepremium.com:8000/get.php?username=lelievre&password=lelievre&type=m3u
+#EXTINF:0, France, world
+http://www.tbs-tv.com:25461/get.php?username=eby1&password=eby1&type=m3u
+#EXTINF:0, France, World IPTV
+http://62.4.21.70:8000/get.php?username=morad4&password=morad4&type=m3u
+#EXTINF:0, France, World IPTV
+http://xtream.globepremium.com:8000/get.php?username=bastiano&password=bastiano&type=m3u
+#EXTINF:0, France2
+http://bit.do/iptvgxmax-FR_FRANCE_2_HD
+#EXTINF:0, FRANCE3
+rtmp://$OPT:rtmp-raw=rtmp://cp108476.live.edgefcs.net/live playpath=france3_1_800@45499 pageUrl=http://livetvstreaming.ucoz.com live=1
+#EXTINF:0, France3
+http://bit.do/iptvgxmax-FR_FRANCE_3_HD
+#EXTINF:0, France4
+http://bit.do/iptvgxmax-FR_FRANCE_4_HD
+#EXTINF:0, France5
+http://bit.do/iptvgxmax-FR_FRANCE_5_HD
+#EXTINF:0, FranceO
+http://bit.do/iptvgxmax-FR_FRANCE_O
+#EXTINF:0, French
+http://82.216.79.37:9981/playlist
+#EXTINF:0, French, mix
+http://137.74.56.222:8000/get.php?username=big&password=big&type=m3u
+#EXTINF:0, FTV
+http://nimlive1.giniko.com/fashiontv/fashiontv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yOS8yMDE0IDk6NTk6NTQgUE0maGFzaF92YWx1ZT1qajFST0RZV21va2dvOXFqb3k0VGZBPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:0, Grand Lille TV
+rtmp://str81.creacast.com/grandlilletv/high
+#EXTINF:0, GULLI
+mms://91.197.165.4/bouygues/all/channel14.wmv
+#EXTINF:0, http://151.80.94.141:8080/onur/onur/2217.ch
+http://151.80.94.141:8080/onur/onur/2217.ch
+#EXTINF:0, http://redvb.no-ip.info:2103/nqashalhob/nqashalhob/39
+http://redvb.no-ip.info:2103/nqashalhob/nqashalhob/39
+#EXTINF:0, iptv
+http://5.254.66.147:8000/get.php?username=0bd063bbfe75ec1&password=801666f655b3147&type=m3u
+#EXTINF:0, iptv
+http://uk-mega-iptv.is-found.org:25461/get.php?username=lewis&password=lewis&type=m3u
+#EXTINF:0, iptv
+http://cemil.300panel3.com:8080/get.php?username=miehonjz&password=7wkYJq702j&type=m3u
+#EXTINF:0, iptv
+http://145.239.108.24:6500/get.php?username=vZ5EoP9ACD&password=lvao3W3Rnq&type=m3u
+#EXTINF:0, iptv
+http://globiptv.com:8000/get.php?username=alion&password=alion&type=m3u
+#EXTINF:0, iptv
+http://www.tbs-tv.com:25461/get.php?username=paul1&password=paul1&type=m3u
+#EXTINF:0, iptv
+http://www.tbs-tv.com:25461/get.php?username=dawood&password=dawood&type=m3u
+#EXTINF:0, iptv
+http://1sn.ns1.name:18800/get.php?username=barwa&password=ki86gvd78h&type=m3u
+#EXTINF:0, iptv
+http://sonic-eg.com:8000/get.php?username=sonictv_hzmTwa&password=YYgzbQMq&type=m3u
+#EXTINF:0, iptv
+http://xtream.hopto.me:9000/get.php?username=essam&password=essam&type=m3u
+#EXTINF:0, iptv
+http://163.172.27.123:58888/get.php?username=free-geantsat.2017&password=26g07fgf2017fgvgolf&type=m3u
+#EXTINF:0, iptv
+http://server.poweriptv.cl:25461/get.php?username=asd123&password=asd123&type=m3u
+#EXTINF:0, iptv
+http://iptv333.expertshort.net:8000/get.php?username=mounir&password=mimouna&type=m3u
+#EXTINF:0, iptv
+http://ounirio.no-ip.org:25461/get.php?username=Tunisia-sat&password=Ounirii&type=m3u
+#EXTINF:0, iptv
+http://s1.iptv-pla.net:7040/get.php?username=66&password=66&type=m3u&output=mpegts
+#EXTINF:0, iptv world
+http://hbox.cdnss.com:80/get.php?username=mzi&password=mzi&type=m3u
+#EXTINF:0, IT, FR
+http://91.236.239.86:8080/get.php?username=1108PL-ipmagtv.com&password=mec2on-Gnk7Ghk&type=m3u
+#EXTINF:0, IT, FR, UK
+http://149.202.220.72:8000/get.php?username=damiano&password=damiano&type=m3u
+#EXTINF:0, ItÃ©lÃ©
+http://chkg.tdf-cdn.com/6317/02.m3u8
+#EXTINF:0, iTELE
+http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/itele-clair-hd-video=3400000-audio_AACL_fra_96000_127=96000.m3u8
+#EXTINF:0, Juu Channel
+http://91.121.183.143:1935/live/juuchannel/playlist.m3u8
+#EXTINF:0, killeropska
+rtmp://stream.ssh101.com/live
+#EXTINF:0, KTO
+mms://91.197.165.4/bouygues/all/channel8.wmv
+#EXTINF:0, La chaine parlementaire
+http://wm.live.tv-radio.com/bouygues/all/channel6.wmv
+#EXTINF:0, La tele
+rtsp://rtmp.infomaniak.ch/livecast/latele
+#EXTINF:0, La Xarxa
+http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+#EXTINF:0, Liberty TV
+http://wm.live.tv-radio.com/bouygues/all/channel13.wmv
+#EXTINF:0, L`EQUIPE21
+http://stream4.latvdefrance.com/demo/lequipe.m3u8
+#EXTINF:0, M6Boutique
+rtsp://flash3.ipercast.net/m6boutique.com-live/mp4:m6boutiquecom.stream_high
+#EXTINF:0, Mangas
+http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:0, MCM POP
+http://109.233.194.252:5556/udp/224.21.21.58:1234
+#EXTINF:0, MCM TOP
+http://84.32.80.15:7781/udp/233.136.41.63:1234
+#EXTINF:0, META TV [720p]
+http://stream-03.dc3.dailymotion.com/19/dm/1/x155tg2/live.isml/events(live-1498727902)/live-audio=128000-video=2100000.m3u8
+#EXTINF:0, Mix World
+http://sadatek57.dyndns.tv:8000/get.php?username=Pailaidelande&password=bCfzbT9oUm&type=m3u
+#EXTINF:0, mix world iptv
+http://portal.geniptv.com:8080/get.php?username=messef&password=ao539EpinD&type=m3u
+#EXTINF:0, Monaco Info
+rtmp://46.105.34.238/livepkgr/livestream3
+#EXTINF:0, mtv
+http://iptv.ndasat.com:88/live/jacki/jacki/1030.m3u8
+#EXTINF:0, mtv france
+http://xtream-codes.no-ip.org:61250/live/android/android/13528.m3u8
+#EXTINF:0, NETWORK-WRESTLING
+mms://89.156.215.251:8080
+#EXTINF:0, NEWS 24
+mms://91.197.165.4/bouygues/all/channel12.wmv
+#EXTINF:0, nt1
+http://koditvforum.lescigales.org/live/yyy/nt1/index_900_av-p.m3u8
+#EXTINF:0, R:PLANETE_A&E
+http://cdn.step-tv.com:8000/live/363636/363636/1744.m3u8
+#EXTINF:0, radiosputnik
+http://audio1.video.ria.ru/voicefre?streamType=live
+#EXTINF:0, renault TV
+rtsp://rtv.fms6.visionip.tv/live/renault_tv-french-live-25f-16x9_3
+#EXTINF:0, rouge tv
+http://ipsatpro.com:8000/live/lancillotto/lancillotto/336.m3u8
+#EXTINF:0, RTL HD
+http://stream-09.dc3.dailymotion.com/15/dm/1/xl1km0/live.isml/events(live-1497621843)/live-audio=128000-video=6300000.m3u8
+#EXTINF:0, RTS la deux HD
+http://bit.do/iptvgxmax-FR_RTS_LA_DEUX_HD
+#EXTINF:0, RussiaToday
+http://secure-streams.akamaized.net/rt-fr/index2500.m3u8
+#EXTINF:0, RussiaToday
+http://secure-streams.akamaized.net//rt-fr/index2500.m3u8
+#EXTINF:0, RussiaToday
+http://secure-streams.akamaized.net/rt-fr/index800.m3u8
+#EXTINF:0, seba
+http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8
+#EXTINF:0, TChad
+http://strhls.streamakaci.tv/str_tchad_tchad/smil:str_tchad_tchad.smil/playlist.m3u
+#EXTINF:0, teenhits
+rtmp://extondemand.livestream.com/ondemand/trans/dv15/mogulus-user-files/chcyprien/2012/12/28/8a038807-0564-41fa-bd10-040c8a7dc4f2
+#EXTINF:0, Tele Antilles
+mms://soleiltv.impek.tv/soleiltv
+#EXTINF:0, TELIM TV
+rtsp://telimvod.proximit.fr:1935/live/myStream
+#EXTINF:0, test
+http://hlslive.live.ksmobile.net/yolo/14884169063561538676/playlist.m3u8
+#EXTINF:0, TEST TV
+mms://91.197.165.4/bouygues/all/channel13.wmv
+#EXTINF:0, TEVA
+http://teva-hls.live.numericable.tv/live/hls/teva/ipad.m3u8
+#EXTINF:0, tf1
+rtmp://$OPT:rtmp-raw=rtmp://5.135.134.110:1935/teledunet playpath=bein_sport_1 swfUrl=http://www.teledunet.com/tv_/player.swf?id0=83027494831000&skin=bekle/bekle.xml&channel=bein_sport_1 live=1 pageUrl=http://www.teledunet.com/tv_/?channel=bein_sport_1
+#EXTINF:0, TF1
+http://stream4.latvdefrance.com/demo/tf1.m3u8
+#EXTINF:0, tf1
+rtmp://star.010e.net:8000/live/mohammedalhanaya/wehjfgweuifh
+#EXTINF:0, TF1 HD
+http://62.65.140.212:80/session/e6e401ac-c1c4-11e5-8dc7-005056bc06d1/nvnv5a/2/2027/index.m3u8?token=652419e4d56ad7418e4e2598c4e67ac0_1453635113_1453635113&p=127
+#EXTINF:0, TF1 HD
+http://86.210.15.171:9981/stream/channelid/454116309
+#EXTINF:0, TR, FR, IT
+http://hdlivetv.de:8000/get.php?username=6509WX1mAO&password=2L0KNWO0Wu&type=m3u
+#EXTINF:0, TSR 1
+rtmp://$OPT:rtmp-raw=rtmp://cp115491.live.edgefcs.net/live/tsr1_1_800@45522 swfsize=927444 swfhash=6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb live=1
+#EXTINF:0, TSR 2
+rtmp://$OPT:rtmp-raw=rtmp://cp115491.live.edgefcs.net/live/tsr2_1_800@45523 swfsize=927444 swfhash=6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb live=1
+#EXTINF:0, TV SF
+mms://stream.tvsf.fr/live
+#EXTINF:0, TV5 MONDE
+rtmp://$OPT:rtmp-raw=rtmp://cp108478.live.edgefcs.net/live playpath=tv5monde_1_800@45511 pageUrl=http://livetvstreaming.ucoz.com live=1
+#EXTINF:0, TV5 Monde
+rtmp://$OPT:rtmp-raw=rtmp://cp108478.live.edgefcs.net/live/tv5monde_1_800@45511 swfsize=927444 swfhash=6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb live=1
+#EXTINF:0, TV5 MONDE
+http://89.38.8.130:39469
+#EXTINF:0, TV5 Monde Maghreb Orient HD
+http://46.59.28.215:4848/bynumber/3
+#EXTINF:0, TV5MONDE
+http://rm-edge-7.cdn2.streamago.tv:80/streamagoedge/1924/817/TV5MONDE.m3u8
+#EXTINF:0, TV6
+http://83.166.48.35:8888/udp/235.35.1.25:1234
+#EXTINF:0, TV7 (France)
+rtmp://88.191.94.248/livtv7vo/mystream700.sdp
+#EXTINF:0, TV8 Month Blanc
+rtmp://$OPT:rtmp-raw=rtmp://www.digiclic-streaming.com/live/tv8/ pageUrl=http://livetvstreaming.ucoz.com live=1 playpath=tv8
+#EXTINF:0, TVC9 QuÃ©bec
+mms://24.212.0.21/tvc9direct
+#EXTINF:0, TVPI
+rtmp://$OPT:rtmp-raw=rtmp://str-flv.oc3n.net/live/tvpi/ playpath=tvpi live=1
+#EXTINF:0, TVR
+rtmp://188.165.42.59/tvrennes35-live/tvrennes35
+#EXTINF:0, UK, FR, DE
+http://163.172.36.103:8000/get.php?username=buyiptv&password=iptvgold.com&type=m3u&output=mpegts
+#EXTINF:0, VIP France, Portugal
+http://37.59.155.97:8000/get.php?username=taharportuguese&password=taharportuguese&type=m3u
+#EXTINF:0, VOD + IPTV
+http://149.202.206.38:8000/get.php?username=smartsat18.25&password=obI0AXyT&type=m3u
+#EXTINF:0, W9
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2442.m3u8
+#EXTINF:0, WÃ©o
+rtmp://$OPT:rtmp-raw=rtmp://str81.creacast.com:80/weo playpath=high swfUrl=http://www.creacast.com/players/tv/flowplayer/flowplayer.swf pageUrl=http://www.weo.fr/Le-Direct live=1 Local channel from Nord-Pas-de-Calais. http://fr.wikipedia.org/wiki/WÃ©o
+#EXTINF:0, World
+http://www.tbs-tv.com:25461/get.php?username=dealsat&password=deal&type=m3u
+#EXTINF:0, World
+http://uiptv.dyndns.tv:8000/get.php?username=Mohammed-Boumedi
+#EXTINF:0, world iptv
+http://151.80.200.58:8000/get.php?username=fikri&password=fikri&type=m3u
+#EXTINF:0, World IPTV
+http://abc.myplay.live:8000/get.php?username=N-PRO-230&password=hnfvgh&type=m3u
+#EXTINF:0, world iptv
+http://www.tbs-tv.com:25461/get.php?username=home&password=home&type=m3u
+#EXTINF:0, world iptv
+http://ndasat.pro:8000/get.php?username=72957393983592&password=1593574628&type=m3u
+#EXTINF:0, world iptv
+http://dossantos.dyndns.info:8000/get.php?username=sevenbits&password=sevenbits&type=m3u
+#EXTINF:0, world iptv
+http://look02.vipid.org:8000/get.php?username=smartsat4.144&password=NetJWEBm&type=m3u
+#EXTINF:0, world iptv
+http://163.172.55.101:8100/get.php?username=david&password=david&type=m3u
+#EXTINF:0, World iptv
+http://links.softiptv.com:2500/get.php?username=domingos&password=12345&type=m3u
+#EXTINF:0, World m3u
+http://server.internext.tv:8000/get.php?username=star18&password=star18&type=m3u
+#EXTINF:0, XemTV - Simpson
+http://91.134.210.0:8080/simpson/index.m3u8
+#EXTINF:0, Yvelines Première
+rtmp://rtmp.infomaniak.ch/livecast/yveline1
